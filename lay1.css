@@ -251,7 +251,7 @@ header a:hover{
 	}
 	.produtos a{
 		width: 50px;
-		margin: auto;
+		margin: 0 auto;
 	}
 	.produtos a img{
 		width: 50px;
